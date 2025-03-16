@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract/Ticket-lib.sol": "TicketL"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract/Ticket-lib.sol": {
+			"keccak256": "0xb0e0c55e3ac49b9d2c9f15b172170373359930f18e46d61e49624e8062d21aa1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b99d4e34fd828bd15c2b2d4f928f61e0186c32088499343819ef224cdb5a816a",
+				"dweb:/ipfs/QmVpWbA1Tw5Z63KUXbdymsBriYePSJQrVFEscxmtmydxwb"
+			]
+		}
+	},
+	"version": 1
+}

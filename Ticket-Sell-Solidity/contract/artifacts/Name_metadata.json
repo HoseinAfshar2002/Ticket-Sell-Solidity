@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contract/Ticket-sell.sol": "Name"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contract/Ticket-lib.sol": {
+			"keccak256": "0x8ca33dd5040ddb729226aedcf39601d15d14d144c985c65d5296d510a4c40a66",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://53ee9ed163208aa517ec40a662831fd50a0658f80ba1567af931ed2459e1ecdc",
+				"dweb:/ipfs/QmXxV8dBrCP1D9nMgcZUA6wAXWFqpD4jkh794dXXebtGvP"
+			]
+		},
+		"contract/Ticket-sell.sol": {
+			"keccak256": "0x35c266fe2cb618f314262e05c862ad0ffc6d248180a5fa61dfb80839115235bf",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0e510070d5119ce44ef70341ac998adf1a4a9edd4b42c80feb613974857542c1",
+				"dweb:/ipfs/QmWAzHihP8G7V6AsNAYnRE5t5fYDP5Kcze6udqf8kwEE8Y"
+			]
+		}
+	},
+	"version": 1
+}
